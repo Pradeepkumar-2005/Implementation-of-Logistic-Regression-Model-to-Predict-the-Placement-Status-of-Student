@@ -8,7 +8,7 @@ To write a program to implement the the Logistic Regression Model to Predict the
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm 
-
+~~~
 Step 1. Start
 
 Step 2. Load the California Housing dataset and select the first 3 features as input (X) and target variables (Y) (including the target price and another feature).
@@ -20,7 +20,7 @@ Step 4. Train a multi-output regression model using Stochastic Gradient Descent 
 Step 5. Make predictions on the test data, inverse transform the predictions, calculate the Mean Squared Error, and print the results.
 
 Step 6. Stop
-
+~~~
 ## Program & Output:
 ```
 /*
